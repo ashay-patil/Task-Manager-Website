@@ -30,12 +30,12 @@ The project demonstrates fundamental concepts and techniques for building a serv
 
 1. Clone this repository to your local machine:
    ```bash
-   git clone https://github.com/your-repo-name.git
+   git clone https://github.com/Task-Manager-Website.git
    ```
    
 2. Navigate to the project directory:
    ```bash
-   cd your-repo-name
+   cd Task-Manager-Website
    ```
    
 3. Install the required Node.js modules:
@@ -52,7 +52,7 @@ The project demonstrates fundamental concepts and techniques for building a serv
 
 5. Create a `.env` file in the project root and configure the MongoDB connection string:
    ```env
-   MONGO_URI=your_connection_string
+   MONGO_URI=....your_connection_string....
    ```
 
 ---
